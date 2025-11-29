@@ -40,7 +40,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: $day-color;
-    transition: transform 0.5s;
+    transition: all 0.5s;
 
     &:hover {
       cursor: pointer;
